@@ -1,0 +1,6 @@
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\FileInfoDemo\FileInfoDemo\bin\Debug\FileInfoDemo.exe.config
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\FileInfoDemo\FileInfoDemo\bin\Debug\FileInfoDemo.exe
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\FileInfoDemo\FileInfoDemo\bin\Debug\FileInfoDemo.pdb
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\FileInfoDemo\FileInfoDemo\obj\Debug\FileInfoDemo.csprojResolveAssemblyReference.cache
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\FileInfoDemo\FileInfoDemo\obj\Debug\FileInfoDemo.exe
+C:\Users\emre\Documents\Vidobu Eğitim\Ileri Seviye C# Egitim Seti\0 Ornek Dosyalar\FileInfoDemo\FileInfoDemo\obj\Debug\FileInfoDemo.pdb
